@@ -1,0 +1,5 @@
+-r base.txt
+
+psycopg2-binary==2.9.3
+django-debug-toolbar==3.2.1
+docutils==0.16
